@@ -6,7 +6,7 @@
 // @author       bitdust
 // @match        https://movie.douban.com/subject/*
 // @updateURL    https://github.com/uuunit/Douban2Rarbg/raw/master/Douban2Rargb.meta.js
-// @downloadURL  https://raw.githubusercontent.com/bitdust/Douban2Piratebay/master/Douban2Piratebay.user.js
+// @downloadURL  https://github.com/uuunit/Douban2Rarbg/raw/master/Douban2Rargb.user.js
 // @grant        none
 // ==/UserScript==
 

@@ -5,7 +5,7 @@
 // @description  And direct link to Rargb from douban movie page.
 // @author       bitdust
 // @match        https://movie.douban.com/subject/*
-// @updateURL    https://raw.githubusercontent.com/bitdust/Douban2Piratebay/master/Douban2Piratebay.meta.js
+// @updateURL    https://github.com/uuunit/Douban2Rarbg/raw/master/Douban2Rargb.meta.js
 // @downloadURL  https://raw.githubusercontent.com/bitdust/Douban2Piratebay/master/Douban2Piratebay.user.js
 // @grant        none
 // ==/UserScript==
